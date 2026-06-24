@@ -36,6 +36,17 @@ AI-ML-Summer-Internship-2026/
 │   ├── Assignment2_Abhiney_Kumar.pdf
 │   └── README.md
 │
+├── Assignment-03/
+│   ├── Assignment_3_Statistics_for_ML.pdf
+│   └── README.md
+│
+├── Assignment-04/
+│   ├── Exercise-01-Linear-Regression.ipynb
+│   ├── Exercise-02-Logistic-Regression.ipynb
+│   ├── Exercise-03-Supervised-vs-Unsupervised.ipynb
+│   ├── Assignment_4_Titanic_ML_Report.pdf
+│   └── README.md
+│
 └── README.md
 ```
 
@@ -44,39 +55,62 @@ AI-ML-Summer-Internship-2026/
 ## Completed Assignments
 
 ### Assignment 1 – Anaconda & Jupyter Notebook Setup
-- Installed Anaconda Distribution
-- Launched Jupyter Notebook
-- Executed a simple Python program
-- Verified Python environment setup
+
+* Installed Anaconda Distribution
+* Launched Jupyter Notebook
+* Executed a simple Python program
+* Verified Python environment setup
 
 ### Assignment 2 – Titanic Dataset Analysis & Visualization Ethics
-- Analyzed the Titanic Passenger Survival Dataset
-- Identified suitable visualization techniques
-- Studied Grouped Bar Charts and Stacked Bar Charts
-- Explored ethical principles of data visualization
-- Discussed misleading charts, scales, and color usage
+
+* Analyzed Titanic Dataset
+* Selected appropriate charts for survival analysis
+* Discussed ethical data visualization principles
+* Answered visualization and storytelling questions
+
+### Assignment 3 – Statistics for Machine Learning
+
+* Answered statistical reasoning questions
+* Explored fairness, bias, variance, and AI ethics
+* Connected statistics with machine learning concepts
+* Discussed decision-making using data
+
+### Assignment 4 – Machine Learning on Titanic Dataset
+
+* Implemented Linear Regression
+* Implemented Logistic Regression
+* Applied K-Means Clustering
+* Compared Supervised and Unsupervised Learning
+* Generated predictions, evaluation metrics, and visualizations
 
 ---
 
 ## Skills Gained
 
-- Python Programming
-- Jupyter Notebook
-- Data Analytics
-- Data Visualization
-- Critical Thinking
-- Data Storytelling
-- Machine Learning Fundamentals
+* Python Programming
+* Jupyter Notebook
+* Data Analytics
+* Data Visualization
+* Statistics for Machine Learning
+* Linear Regression
+* Logistic Regression
+* K-Means Clustering
+* Model Evaluation
+* Machine Learning Fundamentals
 
 ---
 
 ## Tools & Technologies
 
-- Python
-- Anaconda
-- Jupyter Notebook
-- Data Analytics Concepts
-- Visualization Techniques
+* Python
+* Anaconda
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-Learn
+* Git & GitHub
+* Machine Learning Algorithms
 
 ---
 
@@ -93,4 +127,4 @@ This repository will be continuously updated with:
 
 ### Summer Internship on AI & ML 2026
 ### NIT Jalandhar | ECE Department
-### Date 18/06/2026 14:47
+### Date 24/06/2026 14:47
