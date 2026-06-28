@@ -1,130 +1,215 @@
 # AI & ML Summer Internship 2026
 
-Welcome to my AI & ML Summer Internship 2026 repository. This repository contains assignments, learning activities, and project work completed during the Summer Internship on Artificial Intelligence, Machine Learning, and Data Analytics.
-
-## Student Information
-
-- **Name:** Abhiney Kumar
-- **Enrollment Number:** 198409
-- **Department:** Electronics and Communication Engineering (ECE)
-- **Institute:** Dr. B.R. Ambedkar National Institute of Technology (NIT) Jalandhar
-- **Email:** abhineyk.ec.24@nitj.ac.in
+Welcome to my **AI & ML Summer Internship 2026** repository. This repository contains all assignments, practical implementations, reports, and learning activities completed during the AI & Machine Learning Summer Internship.
 
 ---
 
-## Internship Objectives
+# Student Information
 
-- Learn Python for Data Science
-- Understand Data Analytics and Visualization
-- Explore Machine Learning fundamentals
-- Work with real-world datasets
-- Develop analytical and problem-solving skills
-- Build practical AI & ML projects
+* **Name:** Abhiney Kumar
+* **Enrollment Number:** 198409
+* **Department:** Electronics and Communication Engineering (ECE)
+* **Institute:** Dr. B.R. Ambedkar National Institute of Technology (NIT) Jalandhar
+* **Email:** [abhineyk.ec.24@nitj.ac.in](mailto:abhineyk.ec.24@nitj.ac.in)
 
 ---
 
-## Repository Structure
+# Internship Objectives
+
+* Learn Python for Data Science
+* Explore Data Analysis and Visualization
+* Understand Statistics for Machine Learning
+* Build Machine Learning models
+* Learn Deep Learning fundamentals
+* Develop practical AI solutions
+* Gain hands-on experience with Scikit-Learn
+* Build an AI & ML project portfolio
+
+---
+
+# Repository Structure
 
 ```text
 AI-ML-Summer-Internship-2026/
 │
 ├── Assignment-01/
-│   ├── Assignment1_Screenshot.png
-│   └── README.md
-│
 ├── Assignment-02/
-│   ├── Assignment2_Abhiney_Kumar.pdf
-│   └── README.md
-│
 ├── Assignment-03/
-│   ├── Assignment_3_Statistics_for_ML.pdf
-│   └── README.md
-│
 ├── Assignment-04/
-│   ├── Exercise-01-Linear-Regression.ipynb
-│   ├── Exercise-02-Logistic-Regression.ipynb
-│   ├── Exercise-03-Supervised-vs-Unsupervised.ipynb
-│   ├── Assignment_4_Titanic_ML_Report.pdf
-│   └── README.md
+├── Assignment-05/
+├── Assignment-06/
+├── Assignment-07/
+├── Assignment-08/
+├── Assignment-09/
 │
 └── README.md
 ```
 
 ---
 
-## Completed Assignments
+# Completed Assignments
 
-### Assignment 1 – Anaconda & Jupyter Notebook Setup
+## Assignment 1 – Anaconda & Jupyter Notebook Setup
 
 * Installed Anaconda Distribution
-* Launched Jupyter Notebook
-* Executed a simple Python program
-* Verified Python environment setup
-
-### Assignment 2 – Titanic Dataset Analysis & Visualization Ethics
-
-* Analyzed Titanic Dataset
-* Selected appropriate charts for survival analysis
-* Discussed ethical data visualization principles
-* Answered visualization and storytelling questions
-
-### Assignment 3 – Statistics for Machine Learning
-
-* Answered statistical reasoning questions
-* Explored fairness, bias, variance, and AI ethics
-* Connected statistics with machine learning concepts
-* Discussed decision-making using data
-
-### Assignment 4 – Machine Learning on Titanic Dataset
-
-* Implemented Linear Regression
-* Implemented Logistic Regression
-* Applied K-Means Clustering
-* Compared Supervised and Unsupervised Learning
-* Generated predictions, evaluation metrics, and visualizations
+* Configured Jupyter Notebook
+* Executed first Python program
+* Verified Python environment
 
 ---
 
-## Skills Gained
+## Assignment 2 – Titanic Dataset Analysis & Visualization
 
-* Python Programming
-* Jupyter Notebook
-* Data Analytics
-* Data Visualization
-* Statistics for Machine Learning
+* Titanic dataset analysis
+* Data visualization ethics
+* Chart selection
+* Storytelling using visualization
+
+---
+
+## Assignment 3 – Statistics for Machine Learning
+
+* Statistical reasoning
+* Bias and variance
+* AI fairness
+* Statistical concepts used in ML
+
+---
+
+## Assignment 4 – Machine Learning on Titanic Dataset
+
 * Linear Regression
 * Logistic Regression
 * K-Means Clustering
 * Model Evaluation
-* Machine Learning Fundamentals
+* Supervised vs Unsupervised Learning
+* Data Visualization
 
 ---
 
-## Tools & Technologies
+## Assignment 5 – Linear Regression & Gradient Descent
+
+* Manual Gradient Descent implementation
+* Linear Regression visualization
+* Scikit-Learn Linear Regression
+* Model prediction
+* Performance evaluation
+
+---
+
+## Assignment 6 – Machine Learning Fundamentals
+
+* Decision Trees
+* Random Forest
+* Model comparison
+* Feature importance
+* Machine Learning concepts
+* Reflection on supervised learning
+
+---
+
+## Assignment 7 – Decision Trees & Random Forest
+
+* Decision Tree Challenge
+* Random Forest Simulation
+* Feature Importance Analysis
+* Titanic survival prediction
+* Practical visualization using Python
+
+---
+
+## Assignment 8 – Unsupervised Learning
+
+* Data Exploration
+* Data Cleaning
+* K-Means Clustering
+* Cluster Visualization
+* Cluster Analysis
+* Unsupervised Learning Reflection
+
+---
+
+## Assignment 9 – Neural Networks & Deep Learning
+
+* Perceptron Fundamentals
+* Gradient Descent
+* Backpropagation
+* Deep Neural Networks
+* Titanic Survival Case Study
+* Neural Network Architecture
+* Real-world AI Applications
+* Reflection on Deep Learning
+
+---
+
+# Skills Gained
+
+* Python Programming
+* Data Analysis
+* Data Visualization
+* Statistics for Machine Learning
+* Machine Learning Algorithms
+* Linear Regression
+* Logistic Regression
+* Gradient Descent
+* Decision Trees
+* Random Forest
+* K-Means Clustering
+* Neural Networks
+* Deep Learning Concepts
+* Model Evaluation
+* Feature Engineering
+* Supervised Learning
+* Unsupervised Learning
+* Git & GitHub
+
+---
+
+# Tools & Technologies
 
 * Python
-* Anaconda
 * Jupyter Notebook
+* Anaconda
 * Pandas
 * NumPy
 * Matplotlib
 * Scikit-Learn
-* Git & GitHub
-* Machine Learning Algorithms
+* Machine Learning
+* Deep Learning Fundamentals
+* Git
+* GitHub
 
 ---
 
-## Future Work
+# Repository Statistics
 
-This repository will be continuously updated with:
-- Additional internship assignments
-- Titanic Dataset Project
-- Machine Learning Models
-- Data Analysis Projects
-- AI & ML Practical Implementations
+* ✅ Assignments Completed: **9 / 9**
+* 📄 Professional Reports
+* 📊 Data Visualizations
+* 💻 Jupyter Notebook Implementations
+* 🤖 Machine Learning Models
+* 🧠 Deep Learning Fundamentals
 
 ---
 
-### Summer Internship on AI & ML 2026
-### NIT Jalandhar | ECE Department
-### Date 24/06/2026 14:47
+# Future Work
+
+This repository will continue to expand with:
+
+* Advanced Machine Learning
+* Deep Learning Projects
+* Computer Vision
+* Natural Language Processing
+* Neural Network Implementations
+* End-to-End AI Projects
+* Real-world Data Science Applications
+
+---
+
+## AI & ML Summer Internship 2026
+
+**Dr. B.R. Ambedkar National Institute of Technology, Jalandhar**
+
+**Author:** Abhiney Kumar
+
+**Last Updated:** 28 June 2026
