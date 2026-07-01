@@ -1,6 +1,6 @@
 # AI & ML Summer Internship 2026
 
-Welcome to my **AI & ML Summer Internship 2026** repository. This repository contains all assignments, practical implementations, reports, and learning activities completed during the AI & Machine Learning Summer Internship.
+Welcome to my **AI & ML Summer Internship 2026** repository. This repository contains all assignments, practical implementations, reports, Jupyter notebooks, and learning activities completed during the AI & Machine Learning Summer Internship.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my **AI & ML Summer Internship 2026** repository. This repository con
 * **Enrollment Number:** 198409
 * **Department:** Electronics and Communication Engineering (ECE)
 * **Institute:** Dr. B.R. Ambedkar National Institute of Technology (NIT) Jalandhar
-* **Email:** [abhineyk.ec.24@nitj.ac.in](mailto:abhineyk.ec.24@nitj.ac.in)
+* **Email:** abhineyk.ec.24@nitj.ac.in
 
 ---
 
@@ -21,9 +21,10 @@ Welcome to my **AI & ML Summer Internship 2026** repository. This repository con
 * Understand Statistics for Machine Learning
 * Build Machine Learning models
 * Learn Deep Learning fundamentals
+* Perform Model Evaluation
 * Develop practical AI solutions
 * Gain hands-on experience with Scikit-Learn
-* Build an AI & ML project portfolio
+* Build a strong AI & ML project portfolio
 
 ---
 
@@ -41,6 +42,7 @@ AI-ML-Summer-Internship-2026/
 ├── Assignment-07/
 ├── Assignment-08/
 ├── Assignment-09/
+├── Assignment-10/
 │
 └── README.md
 ```
@@ -51,144 +53,159 @@ AI-ML-Summer-Internship-2026/
 
 ## Assignment 1 – Anaconda & Jupyter Notebook Setup
 
-* Installed Anaconda Distribution
-* Configured Jupyter Notebook
-* Executed first Python program
-* Verified Python environment
+- Installed Anaconda Distribution
+- Configured Jupyter Notebook
+- Executed first Python program
+- Verified Python environment
 
 ---
 
 ## Assignment 2 – Titanic Dataset Analysis & Visualization
 
-* Titanic dataset analysis
-* Data visualization ethics
-* Chart selection
-* Storytelling using visualization
+- Titanic dataset analysis
+- Data visualization ethics
+- Chart selection
+- Storytelling using visualization
 
 ---
 
 ## Assignment 3 – Statistics for Machine Learning
 
-* Statistical reasoning
-* Bias and variance
-* AI fairness
-* Statistical concepts used in ML
+- Statistical reasoning
+- Bias and variance
+- AI fairness
+- Statistical concepts used in Machine Learning
 
 ---
 
 ## Assignment 4 – Machine Learning on Titanic Dataset
 
-* Linear Regression
-* Logistic Regression
-* K-Means Clustering
-* Model Evaluation
-* Supervised vs Unsupervised Learning
-* Data Visualization
+- Linear Regression
+- Logistic Regression
+- K-Means Clustering
+- Model Evaluation
+- Supervised vs Unsupervised Learning
+- Data Visualization
 
 ---
 
 ## Assignment 5 – Linear Regression & Gradient Descent
 
-* Manual Gradient Descent implementation
-* Linear Regression visualization
-* Scikit-Learn Linear Regression
-* Model prediction
-* Performance evaluation
+- Manual Gradient Descent implementation
+- Linear Regression visualization
+- Scikit-Learn Linear Regression
+- Model prediction
+- Performance evaluation
 
 ---
 
 ## Assignment 6 – Machine Learning Fundamentals
 
-* Decision Trees
-* Random Forest
-* Model comparison
-* Feature importance
-* Machine Learning concepts
-* Reflection on supervised learning
+- Logistic Regression concepts
+- Sigmoid Function
+- Classification
+- Machine Learning fundamentals
+- Reflection and theory questions
 
 ---
 
 ## Assignment 7 – Decision Trees & Random Forest
 
-* Decision Tree Challenge
-* Random Forest Simulation
-* Feature Importance Analysis
-* Titanic survival prediction
-* Practical visualization using Python
+- Decision Tree Challenge
+- Random Forest Simulation
+- Feature Importance Analysis
+- Titanic Survival Prediction
+- Practical visualization using Python
 
 ---
 
 ## Assignment 8 – Unsupervised Learning
 
-* Data Exploration
-* Data Cleaning
-* K-Means Clustering
-* Cluster Visualization
-* Cluster Analysis
-* Unsupervised Learning Reflection
+- Data Exploration
+- Data Cleaning
+- K-Means Clustering
+- Cluster Visualization
+- Cluster Analysis
+- Unsupervised Learning Reflection
 
 ---
 
 ## Assignment 9 – Neural Networks & Deep Learning
 
-* Perceptron Fundamentals
-* Gradient Descent
-* Backpropagation
-* Deep Neural Networks
-* Titanic Survival Case Study
-* Neural Network Architecture
-* Real-world AI Applications
-* Reflection on Deep Learning
+- Perceptron Fundamentals
+- Gradient Descent
+- Backpropagation
+- Deep Neural Networks
+- Titanic Survival Case Study
+- Neural Network Architecture
+- Real-world AI Applications
+- Reflection on Deep Learning
+
+---
+
+## Assignment 10 – Model Evaluation
+
+- Logistic Regression Model Evaluation
+- Accuracy Calculation
+- Precision Measurement
+- Recall Measurement
+- F1-Score Evaluation
+- Classification Report
+- Confusion Matrix Visualization
+- Evaluation Metrics Comparison
+- Model Evaluation Reflection
 
 ---
 
 # Skills Gained
 
-* Python Programming
-* Data Analysis
-* Data Visualization
-* Statistics for Machine Learning
-* Machine Learning Algorithms
-* Linear Regression
-* Logistic Regression
-* Gradient Descent
-* Decision Trees
-* Random Forest
-* K-Means Clustering
-* Neural Networks
-* Deep Learning Concepts
-* Model Evaluation
-* Feature Engineering
-* Supervised Learning
-* Unsupervised Learning
-* Git & GitHub
+- Python Programming
+- Data Analysis
+- Data Visualization
+- Statistics for Machine Learning
+- Machine Learning Algorithms
+- Linear Regression
+- Logistic Regression
+- Gradient Descent
+- Decision Trees
+- Random Forest
+- K-Means Clustering
+- Neural Networks
+- Deep Learning Concepts
+- Model Evaluation
+- Confusion Matrix Analysis
+- Feature Engineering
+- Supervised Learning
+- Unsupervised Learning
+- Git & GitHub
 
 ---
 
 # Tools & Technologies
 
-* Python
-* Jupyter Notebook
-* Anaconda
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-Learn
-* Machine Learning
-* Deep Learning Fundamentals
-* Git
-* GitHub
+- Python
+- Jupyter Notebook
+- Anaconda
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Machine Learning
+- Deep Learning Fundamentals
+- Git
+- GitHub
 
 ---
 
 # Repository Statistics
 
-* ✅ Assignments Completed: **9 / 9**
-* 📄 Professional Reports
-* 📊 Data Visualizations
-* 💻 Jupyter Notebook Implementations
-* 🤖 Machine Learning Models
-* 🧠 Deep Learning Fundamentals
+- ✅ Assignments Completed: **10 / 10**
+- 📓 Jupyter Notebook Exercises
+- 📄 Professional PDF Reports
+- 📊 Data Visualizations
+- 🤖 Machine Learning Models
+- 📈 Model Evaluation Techniques
+- 🧠 Deep Learning Fundamentals
 
 ---
 
@@ -196,20 +213,21 @@ AI-ML-Summer-Internship-2026/
 
 This repository will continue to expand with:
 
-* Advanced Machine Learning
-* Deep Learning Projects
-* Computer Vision
-* Natural Language Processing
-* Neural Network Implementations
-* End-to-End AI Projects
-* Real-world Data Science Applications
+- Advanced Machine Learning
+- Deep Learning Projects
+- Computer Vision
+- Natural Language Processing
+- Reinforcement Learning
+- Neural Network Implementations
+- End-to-End AI Projects
+- Real-world Data Science Applications
 
 ---
 
 ## AI & ML Summer Internship 2026
 
-**Dr. B.R. Ambedkar National Institute of Technology, Jalandhar**
+**Dr. B.R. Ambedkar National Institute of Technology (NIT) Jalandhar**
 
 **Author:** Abhiney Kumar
 
-**Last Updated:** 28 June 2026
+**Last Updated:** 01 July 2026
